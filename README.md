@@ -13,5 +13,5 @@ A collection of useful knowledge graph resources available online
       subgraph BioCypher
         DP-->DM(Data Modelling);
       end
-     DO(Data Output);
+      DM-->DO(Data Output);
 ```
