@@ -10,13 +10,15 @@ A collection of useful knowledge graph resources available online
 ```
 
 ```mermaid
-  graph LR; 
+  flowchart LR; 
+    subgraph Tools
       DA(Data Acquisition)-->DP(Data Processing);
       subgraph BioCypher
       direction TB
         DP-->DM(Data Mapping);
       end
       DM-->DO(Data Output);
+     end
     click DA "https://www.github.com"
 ```
 ## Data Acquisition
