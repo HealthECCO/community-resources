@@ -23,17 +23,24 @@ A collection of useful knowledge graph resources available online
     click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"
 ```
 ## Data Acquisition
+- https://git.connect.dzd-ev.de/dzdpythonmodules/buffy
+- https://github.com/bio2bel/
 
 ## Data Processing
+- https://github.com/saezlab/BioCypher
 - https://github.com/TranslatorSRI/NodeNormalization
+- 
 
 ## Data Modelling
 - https://pypi.org/project/biolink-model/
 - https://github.com/linkml/linkml
+- https://github.com/sorgerlab/indra
+- https://github.com/biological-expression-language
 
 ## Data Loading
 - https://github.com/biolink/kgx/
 - https://github.com/knowledge-Graph-Hub/
 - https://github.com/Knowledge-Graph-Hub/kg-template
+- https://github.com/pybel/pybel
 
 ## Data Output
