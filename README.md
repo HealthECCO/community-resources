@@ -1,7 +1,7 @@
 # Knowledge Graph Resources Online
 A collection of useful knowledge graph resources available online
 ```mermaid
-  graph LR; 
+  graph TD; 
       Forums;
       Articles;
       Websites;
