@@ -1,10 +1,17 @@
 # Knowledge Graph Resources Online
 A collection of useful knowledge graph resources available online
+```mermaid
+  graph LR; 
+      Forums;
+      Articles;
+      Websites;
+```
 
 ```mermaid
-  graph TD;
+  graph LR; 
       DA(Data Acquisition)-->DP(Data Processing);
       subgraph BioCypher
-        DP
-    end
+        DP-->DM(Data Modelling);
+      end
+     DO(Data Output);
 ```
