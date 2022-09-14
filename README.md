@@ -3,7 +3,7 @@ A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD; 
       Forums;
-      Articles;
+      Publications;
       Websites;
 ```
 
