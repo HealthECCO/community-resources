@@ -30,7 +30,6 @@ A collection of useful knowledge graph resources available online
 ## Data Processing
 - https://github.com/saezlab/BioCypher
 - https://github.com/TranslatorSRI/NodeNormalization
-- 
 
 ## Data Modelling
 - https://pypi.org/project/biolink-model/
