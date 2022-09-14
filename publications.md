@@ -1,7 +1,7 @@
 
-##### [CovidGraph: a graph to fight COVID-19 ](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac592/6678977?login=false)
+**[CovidGraph: a graph to fight COVID-19 ](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac592/6678977?login=false)**
 Lea Gütebier, Tim Bleimehl, Ron Henkel, Jamie Munro, Sebastian Müller, Axel Morgner, Jakob Laenge, Anke Pachauer, Alexander Erdl, Jens Weimar
-*Bioinformatics - Published: 30 August 2022 
+*Bioinformatics - Published: 30 August 2022*
 
 [GraPE: fast and scalable Graph Processing and Embedding](https://arxiv.org/abs/2110.06196)
 
