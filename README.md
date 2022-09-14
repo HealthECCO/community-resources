@@ -4,4 +4,7 @@ A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD;
       DA(Data Acquisition)-->DP(Data Processing);
+      subgraph BioCypher
+        DP
+    end
 ```
