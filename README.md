@@ -1,4 +1,4 @@
-# Knowledge Graph Resources Online
+# BioCypher Community Resources Online
 A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD; 
