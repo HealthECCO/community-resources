@@ -13,8 +13,16 @@ A collection of useful knowledge graph resources available online
   graph LR; 
       DA(Data Acquisition)-->DP(Data Processing);
       subgraph BioCypher
+      direction TB
         DP-->DM(Data Mapping);
       end
       DM-->DO(Data Output);
     click DA "https://www.github.com"
 ```
+## Data Acquisition
+
+## Data Processing
+
+## Data Mapping
+
+## Data Output
