@@ -8,29 +8,32 @@ A collection of useful knowledge graph resources available online
   click F "/HealthECCO/community-resources/blob/main/forums.md"
   click P "/HealthECCO/community-resources/blob/main/publications.md"
 ```
-
 ```mermaid
-  flowchart TD; 
-      F(Forums);
-      P(Publications);
-      W(Websites);
-  click F "/HealthECCO/community-resources/blob/main/forums.md"
-  click P "/HealthECCO/community-resources/blob/main/publications.md"
-    subgraph Tools
-      direction TB;
+  flowchart LR; 
       DA(Data Acquisition)-->DP(Data Processing);
         subgraph BioCypher
-          direction LR;
-          DP-->DM(Data Mapping);
+          DP-->DM(Data Modelling);
+          DM-->DL(Data Loading);
           end
-      DM-->DO(Data Output);
-     end
-    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"
+      DL-->DO(Data Output);
+    click DA "/HealthECCO/community-resources/blob/main/README.md/#data-acquisition"
+    click DP "/HealthECCO/community-resources/blob/main/README.md/#data-processing"
+    click DM "/HealthECCO/community-resources/blob/main/README.md/#data-modelling"
+    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-loading"    
+    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"  
 ```
 ## Data Acquisition
 
 ## Data Processing
+- https://github.com/TranslatorSRI/NodeNormalization
 
-## Data Mapping
+## Data Modelling
+- https://pypi.org/project/biolink-model/
+- https://github.com/linkml/linkml
+
+## Data Loading
+- https://github.com/biolink/kgx/
+- https://github.com/knowledge-Graph-Hub/
+- https://github.com/Knowledge-Graph-Hub/kg-template
 
 ## Data Output
