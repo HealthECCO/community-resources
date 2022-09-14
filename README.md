@@ -2,9 +2,10 @@
 A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD; 
-      Forums;
-      Publications;
-      Websites;
+      F(Forums);
+      P(Publications);
+      W(Websites);
+  click F "forums.md"
 ```
 
 ```mermaid
