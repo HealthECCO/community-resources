@@ -10,7 +10,7 @@ A collection of useful knowledge graph resources available online
 ```
 
 ```mermaid
-  flowchart TD; 
+  flowchart LR; 
       F(Forums);
       P(Publications);
       W(Websites);
@@ -19,7 +19,6 @@ A collection of useful knowledge graph resources available online
     subgraph Tools
       DA(Data Acquisition)-->DP(Data Processing);
         subgraph BioCypher
-          direction LR
             DP-->DM(Data Mapping);
           end
       DM-->DO(Data Output);
