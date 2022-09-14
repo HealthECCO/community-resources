@@ -5,7 +5,7 @@ A collection of useful knowledge graph resources available online
       F(Forums);
       P(Publications);
       W(Websites);
-  click F "/community-resources/blob/main/forums.md"
+  click F "/HealthECCO/community-resources/blob/main/forums.md"
 ```
 
 ```mermaid
