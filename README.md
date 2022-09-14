@@ -25,7 +25,7 @@ A collection of useful knowledge graph resources available online
           end
       DM-->DO(Data Output);
      end
-    click DO "/HealthECCO/community-resources/blob/main/README.md/#Data Output"
+    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"
 ```
 ## Data Acquisition
 
