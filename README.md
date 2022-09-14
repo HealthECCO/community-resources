@@ -17,7 +17,7 @@ A collection of useful knowledge graph resources available online
   click F "/HealthECCO/community-resources/blob/main/forums.md"
   click P "/HealthECCO/community-resources/blob/main/publications.md"
     subgraph Tools
-      direction LR;
+      direction TB;
       DA(Data Acquisition)-->DP(Data Processing);
         subgraph BioCypher
             
@@ -25,9 +25,9 @@ A collection of useful knowledge graph resources available online
           end
       DM-->DO(Data Output);
      end
-    click DA "#Data Acquisition"
+    click DA "#Data Output"
 ```
-## <a id="Data Acquisition"></a>Data Acquisition
+## Data Acquisition
 
 ## Data Processing
 
