@@ -4,5 +4,9 @@ Lea Gütebier, Tim Bleimehl, Ron Henkel, Jamie Munro, Sebastian Müller, Axel Mo
 Bioinformatics, btac592, https://doi.org/10.1093/bioinformatics/btac592
 Published: 30 August 2022 Article history
 
+[GraPE: fast and scalable Graph Processing and Embedding](https://arxiv.org/abs/2110.06196)
+Luca Cappelletti, Tommaso Fontana, Elena Casiraghi, Vida Ravanmehr, Tiffany J.Callahan, Marcin P. Joachimiak, Christopher J. Mungall, Peter N. Robinson, Justin Reese, Giorgio Valentini
+Submitted on 12 Oct 2021 (v1), last revised 17 Aug 2022 (this version, v2)
+
 [KG-COVID-19: A Framework to Produce Customized Knowledge Graphs for COVID-19 Response](https://www.sciencedirect.com/science/article/pii/S2666389920302038)
-Author Justin T.Reese DeepakUnni1Tiffany J.Callahan2LucaCappelletti3VidaRavanmehr4SethCarbon1Kent A.Shefchek5Benjamin M.Good1James P.Balhoff6TommasoFontana7HannahBlau4NicolasMatentzoglu8Nomi L.Harris1Monica C.Munoz-Torres15Melissa A.Haendel5Peter N.Robinson4Marcin P.Joachimiak1Christopher J.Mungall1
+Author Justin T.Reese, DeepakUnni, Tiffany J.Callahan, Luca Cappelletti, Vida Ravanmehr, Seth Carbon, Kent A.Shefchek, Benjamin M.Good, James P.Balhoff, Tommaso Fontana, Hannah Blau, Nicolas Matentzoglu, Nomi L.Harris, Monica C.Munoz-Torres, Melissa A.Haendel, Peter N.Robinson, Marcin P.Joachimiak, Christopher J.Mungall
