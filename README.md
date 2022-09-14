@@ -20,8 +20,8 @@ A collection of useful knowledge graph resources available online
       direction TB;
       DA(Data Acquisition)-->DP(Data Processing);
         subgraph BioCypher
-            
-            DP-->DM(Data Mapping);
+          direction LR;
+          DP-->DM(Data Mapping);
           end
       DM-->DO(Data Output);
      end
