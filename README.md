@@ -3,6 +3,7 @@ A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD; 
       F(Forums);
+      O(Ontologies);
       P(Publications);
       W(Websites);
   click F "/HealthECCO/community-resources/blob/main/forums.md"
