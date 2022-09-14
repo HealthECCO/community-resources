@@ -20,7 +20,7 @@ A collection of useful knowledge graph resources available online
     click DP "/HealthECCO/community-resources/blob/main/README.md/#data-processing"
     click DM "/HealthECCO/community-resources/blob/main/README.md/#data-modelling"
     click DO "/HealthECCO/community-resources/blob/main/README.md/#data-loading"    
-    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"  
+    click DO "/HealthECCO/community-resources/blob/main/README.md/#data-output"
 ```
 ## Data Acquisition
 
