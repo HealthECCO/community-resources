@@ -30,6 +30,7 @@ A collection of useful knowledge graph resources available online
 ## Data Processing
 - https://github.com/saezlab/BioCypher
 - https://github.com/TranslatorSRI/NodeNormalization
+- https://github.com/AnacletoLAB/grape
 - https://arxiv.org/abs/2110.06196
 
 
