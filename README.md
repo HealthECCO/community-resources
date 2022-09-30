@@ -30,15 +30,20 @@ A collection of useful knowledge graph resources available online
 ## Data Processing
 - https://github.com/saezlab/BioCypher
 - https://github.com/TranslatorSRI/NodeNormalization
+- https://arxiv.org/abs/2110.06196
+
 
 ## Data Modelling
 - https://pypi.org/project/biolink-model/
 - https://github.com/linkml/linkml
+- https://github.com/linkml/prefixmaps
 - https://github.com/sorgerlab/indra
 - https://github.com/biological-expression-language
 
 ## Data Loading
 - https://github.com/biolink/kgx/
+- https://github.com/biolink/kgx/blob/master/specification/kgx-format.md
+- https://knowledge-graph-hub.github.io/
 - https://github.com/knowledge-Graph-Hub/
 - https://github.com/Knowledge-Graph-Hub/kg-template
 - https://github.com/pybel/pybel
