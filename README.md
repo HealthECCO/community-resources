@@ -1,4 +1,4 @@
-# BioCypher Community Resources Online
+# KG Interop Community Resources Online
 A collection of useful knowledge graph resources available online
 ```mermaid
   graph TD; 
